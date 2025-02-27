@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkyLink</string>
+    <string name="minombre">Geraldine García López</string>
+    <string name="registro">Regístrate</string>
+    <string name="comienza">Comienza</string>
+    <string name="ingresa">Ingresar</string>
+    <string name="recupera_contrasena">Recupera tu contraseña</string>
+    <string name="mensaje_inicio">Inicia una nueva aventura con SkyLink y descubre una nueva forma de ver el mundo</string>
+    <string name="notienecuenta">¿No tienes cuenta? Regístrate</string>
+    <string name="ingresa_google">Ingresa con Google</string>
+    <string name="inicia_sesión">La aventura está por iniciar, por favor inicia sesión</string>
+</resources>
